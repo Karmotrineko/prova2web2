@@ -47,8 +47,9 @@ você já vai estar dentro do projeto na tela de login.
 
 Para demonstrar a integração com o front end podemos logar em um usuário que já existe no banco de dados do back end, como:
 
-Email = teste
-Senha = 123
+**Email = teste**
+
+**Senha = 123**
 
 Támbem podemos criar um novo usuário para adicionar o mesmo no banco de dados do back end:
 
